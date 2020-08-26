@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "userName": "balakumaran",
+      "age": "26",
+      "gender": "Male",
+      "email": "balakumaran.raji@gmail.com",
+      "phoneNumber": "3642763466",
+      "id": 1,
+      "password": "infi@123"
+    },
+    {
+      "userName": "sandhiya 123",
+      "age": "26",
+      "gender": "Male",
+      "email": "sandhiya@gmail.com",
+      "phoneNumber": "7845351015",
+      "id": 2,
+      "password": "infi@123"
+    }
+  ]
+}
