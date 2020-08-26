@@ -10,7 +10,7 @@ Simple user Management with login
 
 - Login user
 - Maintain session by using localstorage
-- List all users and store into redux
+- List all users and store into Redux
 - Add User
 - Update User
 - Delete User
@@ -33,4 +33,4 @@ Simple user Management with login
 - React-router
 - Json-server
 - Datatables
-- React hooks forms
+- React hooks forms - form validation and form maintaining
