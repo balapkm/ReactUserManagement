@@ -18,13 +18,13 @@ Simple user Management with login
 
 ## Development server
 
-yarn run server
-yarn start
+- yarn run server
+- yarn start
 
 ## Production Build Run
 
-yarn run server
-yarn build
+- yarn run server
+- yarn build
 
 ## Dependencies
 
